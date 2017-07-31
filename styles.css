@@ -1,5 +1,5 @@
 div.container {
-    width: 100%;
+    width: 700px;
     border: 1px solid #848484;
 }
 
@@ -23,7 +23,7 @@ article {
     margin-left: 0px;
     margin-right: 170px;
     border-left: 1px solid #848484;
-    padding: 10em;
+    padding: 2em;
     overflow: hidden;
 }
 
