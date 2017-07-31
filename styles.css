@@ -1,6 +1,7 @@
 div.container {
-    width: 700px;
+    width: 900px;
     border: 1px solid #848484;
+    align: center;
 }
 
 h1 {
@@ -22,7 +23,7 @@ body {
 article {
     margin-left: 0px;
     margin-right: 170px;
-    border-left: 1px solid #848484;
+    border-left: 0px solid #848484;
     padding: 2em;
     overflow: hidden;
 }
