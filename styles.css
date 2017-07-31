@@ -1,3 +1,8 @@
+div.container {
+    width: 100%;
+    border: 1px solid #848484;
+}
+
 h1 {
   color: #000000;
   font-style: bold;
@@ -5,12 +10,20 @@ h1 {
 }
 
 ol {
- color: black;
+ color: #000000;
   
 }
 
 body {
 
 
+}
+
+article {
+    margin-left: 0px;
+    margin-right: 170px;
+    border-left: 1px solid #848484;
+    padding: 1em;
+    overflow: hidden;
 }
 
