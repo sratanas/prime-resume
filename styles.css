@@ -1,7 +1,7 @@
 div.container {
     width: 900px;
     border: 1px solid #848484;
-    align: center;
+    margin: 40px;
 }
 
 h1 {
