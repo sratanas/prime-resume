@@ -37,10 +37,12 @@ ol {
 
 header {
     font: Tahoma, sans-serif;
+    font-color: #FFFFFF;
+    background: #cc3300;
     margin-left: 0px;
     margin-right: 0px;
     border-bottom: 2px solid #848484;
-    padding: 2em;
+    padding: 1em;
     overflow: hidden;
  
 }
