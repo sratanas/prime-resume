@@ -19,7 +19,10 @@ h3 {
    
 }
 
-
+ul {
+    font: 12px Tahoma, sans-serif;
+    
+}
 
 ol {
  color: #000000;
