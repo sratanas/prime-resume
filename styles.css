@@ -13,8 +13,13 @@ h1 {
 }
 
 h3 {
-    font: "Tahoma";
+    font: "Tahoma", sans-serif;
    
+}
+
+header {
+    font: "Tahoma", sans-serif;
+    
 }
 
 
