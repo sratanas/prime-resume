@@ -6,6 +6,12 @@ div.container {
     background: 
 }
 
+p {
+    font: "Tahoma", sans-serif;
+    
+}
+
+
 h1 {
   color: #000000;
   font-style: bold;
@@ -17,10 +23,6 @@ h3 {
    
 }
 
-p {
-    font: "Tahoma", sans-serif;
-    
-}
 
 ol {
  color: #000000;
