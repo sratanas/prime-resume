@@ -19,8 +19,12 @@ h3 {
    
 }
 
+p {
+    font: 13px Tahoma, sans-serif;
+}
+
 ul {
-    font: 12px Tahoma, sans-serif;
+    font: 13px Tahoma, sans-serif;
     
 }
 
