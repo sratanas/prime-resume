@@ -13,14 +13,10 @@ h1 {
 }
 
 h3 {
-    font-family: "Tahoma", sans-serif;
+    font: "Tahoma", sans-serif;
    
 }
 
-header {
-    font-family: "Tahoma", sans-serif;
-    
-}
 
 
 ol {
