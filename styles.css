@@ -8,8 +8,8 @@ div.container {
 
 
 h1 {
-  font: 28px Tahoma, sans-serif;
-  color: #FFFFFF;
+  font: 32px Tahoma, sans-serif;
+  color: #000000;
   font-style: bold;
 
 }
@@ -43,8 +43,9 @@ header {
     font: Tahoma, sans-serif;
     font-color: #000000;
     background: #e6e6e6;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: right;
     border-bottom: 0px solid #848484;
     padding: 1em;
     overflow: hidden;
