@@ -1,9 +1,9 @@
 
 div.container {
     width: 900px;
-    border: 1px solid #848484;
+    border: 3px solid #d64933;
     margin: 40px auto 60px;
-    background: 
+    background: #eee5e9;
 }
 
 
@@ -35,16 +35,16 @@ ol {
 }
 
 body {
-    background: #e6e6e6
+    background: #7c7c7c
         
 }
 
 header {
     font: Tahoma, sans-serif;
-    font-color: #000000;
-    background: #e6e6e6;
+    font-color: #FFFFFF;
+    background: #7c7c7c;
     margin-left: 100px;
-    margin-right: 100px;
+    margin-right: 200px;
     text-align: right;
     border-bottom: 0px solid #848484;
     padding: 1em;
