@@ -25,7 +25,8 @@ p {
     font: 13px Tahoma, sans-serif;
 }
 
-p.contactinfo {
+#contactinfo {
+    font: 14px Tahoma, sans-serif;
     font-color: #FFFFFF;
     
 }
