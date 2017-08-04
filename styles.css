@@ -27,7 +27,7 @@ p {
 
 #contactinfo {
     font: 14px Tahoma, sans-serif;
-    color: #FFFFFF;
+    font-color: white;
     
 }
     
@@ -55,7 +55,7 @@ header {
     text-align: right;
     border-bottom: 0px solid #848484;
     padding-top: 15px;
-    padding-right: 70px;
+    padding-right: 90px;
     padding-bottom: 10px;
     padding-left: 10px;
     overflow: hidden;
