@@ -41,7 +41,14 @@ ol {
  color: #000000;
   
 }
- 
+
+
+section {
+    padding-left:10px;
+    
+}
+
+
 body {
     background: #7c7c7c
         
