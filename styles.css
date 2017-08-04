@@ -10,7 +10,7 @@ div.container {
 h1 {
   font: 32px Tahoma, sans-serif;
   letter-spacing: 4px;
-  color: #FFFFFF;
+  font-color: #FFFFFF;
   font-style: bold;
 
 }
