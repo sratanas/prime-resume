@@ -54,7 +54,10 @@ header {
     margin-right: 100px;
     text-align: right;
     border-bottom: 0px solid #848484;
-    padding: 1em;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 10px;
     overflow: hidden;
  
 }
