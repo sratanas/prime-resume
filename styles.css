@@ -9,8 +9,8 @@ div.container {
 
 h1 {
   font: 32px Tahoma, sans-serif;
-  letter-spacing: 4px;
   color: #FFFFFF;
+  letter-spacing: 4px;
   font-style: bold;
 
 }
@@ -44,7 +44,7 @@ header {
     font: Tahoma, sans-serif;
     background: #7c7c7c;
     margin-left: 0px;
-    margin-right: 40px;
+    margin-right: 70px;
     text-align: right;
     border-bottom: 0px solid #848484;
     padding: 1em;
