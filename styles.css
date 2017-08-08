@@ -7,6 +7,12 @@ div.container {
     background: #ededed;
 }
 
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
 
 h1 {
   font: 32px Tahoma, sans-serif;
