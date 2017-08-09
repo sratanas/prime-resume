@@ -94,5 +94,12 @@ sidebar {
     padding: 1em;
 }
 
+footer {
+    width: 950px;
+    border-top: 5px solid #d64933;
+    margin: 20px;
+    background: #ededed
+        
+}
 
  
