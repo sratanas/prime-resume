@@ -95,10 +95,11 @@ sidebar {
 }
 
 footer {
+    font: Tahoma, sans-serif;
     margin-left: 0px;
     margin-right: 0px;
     border-top: 5px solid #d64933;
-    padding: 1em;
+    padding: 0em;
     overflow: hidden;
    
 }
