@@ -95,11 +95,14 @@ sidebar {
 }
 
 footer {
-    width: 950px;
+    margin-left: 0px;
+    margin-right: 0px;
     border-top: 5px solid #d64933;
-    margin: 20px;
-    background: #ededed
-        
+    padding: 1em;
+    overflow: hidden;
+   
+}
+
 }
 
  
