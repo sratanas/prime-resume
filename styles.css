@@ -79,9 +79,9 @@ header {
 
 article {
     margin-left: 0px;
-    margin-right: 20px;
+    margin-right: 0px;
     border-left: 0px solid #848484;
-    padding: 2em;
+    padding: 1em;
     overflow: hidden;
    
 }
