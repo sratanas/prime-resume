@@ -1,3 +1,3 @@
 # sratanas.github.io
 
-Project McProject.
+HTML/CSS resume
